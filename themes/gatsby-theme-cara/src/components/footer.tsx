@@ -30,7 +30,7 @@ const Footer = () => {
           a: { color: `text` },
         }}
       >
-        <img width="30" height="30" src="https://img.lekoarts.de/gatsby/logo_w30.png" alt="LekoArts Logo" />
+        {/* <img width="30" height="30" src="https://img.lekoarts.de/gatsby/logo_w30.png" alt="LekoArts Logo" />
         {` `}
         <Styled.a
           aria-label="Link to the theme's GitHub repository"
@@ -43,7 +43,7 @@ const Footer = () => {
         {` `}
         <Styled.a aria-label="Link to the theme author's website" href="https://www.lekoarts.de/en">
           LekoArts
-        </Styled.a>
+        </Styled.a> */}
       </Flex>
     </ThemeFooter>
   )
